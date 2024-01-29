@@ -6,9 +6,14 @@ categories: Resume
 tags: Resume CV Lebenslauf
 ---
 
-Click here to download my CV: [English](https://cloud.tu-braunschweig.de/s/ctLZdq3TnP7qRPd)
+Click here to download my CV: [English](https://cloud.tu-braunschweig.de/s/pW28xaiHAow9cRS)
 
 ------------------
 
 
-Klicken Sie hier, um meinen Lebenslauf herunterzuladen: [Deutsch](https://cloud.tu-braunschweig.de/s/d44G97fCRNXRKYn)
+Klicken Sie hier, um meinen Lebenslauf herunterzuladen: [Deutsch](https://cloud.tu-braunschweig.de/s/ZYdPAPep5F8wNH8)
+
+------------------
+
+
+点击这里，下载我的个人简历: [英文](https://cloud.tu-braunschweig.de/s/pW28xaiHAow9cRS)
