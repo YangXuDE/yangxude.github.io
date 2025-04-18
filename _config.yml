@@ -45,7 +45,7 @@ mathjax: true
 
 # Share
 social-share: true
-social-share-items: ['wechat', 'weibo', 'douban', 'twitter', 'facebook', 'linkedin', 'email','whatsapp']
+social-share-items: ['wechat', 'weibo', 'douban', 'twitter', 'facebook']
 # Favicon
 favicon: '/assets/img/favicon.png'
 # Cover image 封面图片
