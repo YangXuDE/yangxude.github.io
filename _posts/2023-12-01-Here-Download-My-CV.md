@@ -14,6 +14,7 @@ Click here to download my CV: [English](https://cloud.tu-braunschweig.de/s/pW28x
 Klicken Sie hier, um meinen Lebenslauf herunterzuladen: [Deutsch](https://cloud.tu-braunschweig.de/s/ZYdPAPep5F8wNH8)
 
 ------------------
+点击这里，下载我的个人简历: [中文](/assets/img/Chinese_CV.pdf)
 
 
 点击这里，下载我的个人简历: [中文](https://cloud.tu-braunschweig.de/s/mggpCCW2rd8nJMN)
