@@ -27,7 +27,7 @@ footer:
 author: '徐阳'
 nickname: ''
 bio: '工程计算科学硕士就读，热爱技术&设计，简单乐观爱创造'
-avatar: '/assets/img/profile.png'
+avatar: '/assets/img/profile2.jpeg'
 
 # Search
 search: true
@@ -57,7 +57,7 @@ postPatterns: 'overlappingCircles'
 # url: email, weibo, zhihu, twitter, instagram, juejin, github, douban, facebook, dribble, uicn, jianshu, medium, linkedin
 sns:
   email: 'mailto:yang.xu@tu-braunschweig.de'
-  instagram: '//instagram.com/yannixu2023'
+  instagram: '//instagram.com/seoyang0'
   zhihu: '//zhihu.com/people/xuyang_cn'
   github: '//github.com/YangXuDe'
   linkedin: '//linkedin.com/in/yang-xu-6ab4a2291'
