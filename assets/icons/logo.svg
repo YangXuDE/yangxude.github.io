@@ -1,27 +1,23 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="1080" height="1080" viewBox="0 0 1080 1080" xml:space="preserve">
-<desc>Created with Fabric.js 5.2.4</desc>
-<defs>
-</defs>
-<rect x="0" y="0" width="100%" height="100%" fill="transparent"></rect>
-<g transform="matrix(1 0 0 1 540 540)" id="cf51cf9a-c329-4117-ac22-94b75ce4c1b8"  >
-<rect style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,255,255); fill-rule: nonzero; opacity: 1; visibility: hidden;" vector-effect="non-scaling-stroke"  x="-540" y="-540" rx="0" ry="0" width="1080" height="1080" />
-</g>
-<g transform="matrix(1 0 0 1 540 540)" id="09c13979-d9d6-4420-8766-9142da972879"  >
-</g>
-<g transform="matrix(1.59 0 0 1.85 511.89 494.97)" style="filter: url(#SVGID_289);" id="5d6bb109-10ed-426a-b5f7-78f4ec7aa970"  >
-<filter id="SVGID_289" y="-22%" height="144%" x="-20%" width="140%" >
-	<feGaussianBlur in="SourceAlpha" stdDeviation="2.5"></feGaussianBlur>
-	<feOffset dx="0" dy="0" result="oBlur" ></feOffset>
-	<feFlood flood-color="rgb(108,108,108)" flood-opacity="1"/>
-	<feComposite in2="oBlur" operator="in" />
-	<feMerge>
-		<feMergeNode></feMergeNode>
-		<feMergeNode in="SourceGraphic"></feMergeNode>
-	</feMerge>
-</filter>
-		<rect opacity="0" fill="rgb(80,88,50)" x="-500.7" y="-113" width="1001.4" height="226"></rect>
-		<text xml:space="preserve" font-family="Raleway" font-size="200" font-style="normal" font-weight="900" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-257.7" y="62.83" >M</tspan><tspan x="-87.9" y="62.83" >A</tspan><tspan x="44.5" y="62.83" >I</tspan><tspan x="106.9" y="62.83" >N</tspan></text>
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN"
+ "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg version="1.0" xmlns="http://www.w3.org/2000/svg"
+ width="128.000000pt" height="128.000000pt" viewBox="0 0 128.000000 128.000000"
+ preserveAspectRatio="xMidYMid meet">
+
+<g transform="translate(0.000000,128.000000) scale(0.100000,-0.100000)"
+fill="#000000" stroke="none">
+<path d="M418 1200 c-85 -15 -149 -41 -158 -64 -15 -34 -111 -378 -108 -382 2
+-2 33 6 68 18 44 14 92 22 151 22 81 1 91 -1 159 -36 41 -21 74 -37 75 -35 1
+1 28 92 59 202 l58 199 -21 18 c-57 46 -194 74 -283 58z"/>
+<path d="M796 1062 c-2 -4 -30 -95 -60 -202 -63 -219 -64 -203 20 -240 105
+-46 215 -49 338 -9 l66 22 21 71 c41 137 96 331 95 333 -1 1 -29 -6 -63 -17
+-134 -42 -243 -35 -355 21 -31 16 -59 25 -62 21z"/>
+<path d="M218 677 c-48 -12 -90 -26 -94 -30 -8 -8 -123 -401 -119 -405 2 -2
+33 6 70 17 121 38 259 24 346 -33 21 -15 39 -24 39 -21 0 3 27 96 60 207 40
+136 56 206 49 214 -5 6 -36 23 -69 38 -86 39 -171 43 -282 13z"/>
+<path d="M645 548 c-16 -49 -105 -370 -105 -381 0 -18 126 -75 195 -88 56 -10
+169 7 245 37 l37 15 52 182 c29 100 54 189 57 198 4 15 -2 15 -63 -2 -123 -34
+-284 -20 -369 32 -37 22 -43 23 -49 7z"/>
 </g>
 </svg>
